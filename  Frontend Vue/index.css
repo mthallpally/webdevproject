@@ -1,0 +1,12 @@
+.app{
+    .container{
+        width: 100%;
+    }
+    .tablerow{
+        width: 100%;
+    }
+    .col-md-3{
+        width: 100%;
+    }
+  
+}
